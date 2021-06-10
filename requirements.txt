@@ -3,7 +3,7 @@ certifi==2018.11.29
 cffi==1.11.5
 chardet==3.0.4
 cryptography==2.5
-Django==2.1.5
+Django==2.2.24
 idna==2.8
 pycparser==2.19
 pyOpenSSL==19.0.0
